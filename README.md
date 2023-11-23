@@ -14,4 +14,4 @@ This week, based on the main visual style features of Dream Core collected, I se
 
 <img width="100%" src="https://github.com/PashaCai/Final-Project---Whale-Balance-Ball/blob/master/Picture%20for%20readme/5.jpg"/>
 
-<img width="100%" src=""/>
+<img>
